@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ProductApp
+build_property.ProjectDir = /Users/ioansorin/Mine/Projects/DevOps/terraform-azure/terraform-course-2/apps/ProductApp-test-terraform/ProductApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
